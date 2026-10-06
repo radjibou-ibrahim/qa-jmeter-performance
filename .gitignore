@@ -1,0 +1,7 @@
+# Résultats bruts et logs JMeter (regénérés à chaque exécution)
+*.jtl
+jmeter.log
+
+# Fichiers système et éditeur
+Thumbs.db
+.vscode/
